@@ -1,0 +1,42 @@
+body {
+ background-color: #be192d;
+ font-size:   1cm;
+ color:  blanchedalmond;
+ text-align: center;
+ font-family: Questrial,sans-serif;
+}
+h1{
+  color: blanchedalmond;
+  font-size:   100px ;
+  font-family: Questrial,sans-serif;
+}
+h2{
+  font-size: .5cm;
+  text-align: right;
+
+}
+p{
+  font-family: cursive;
+}
+button{
+  background-color: black;
+    border: none;
+    color: #be192d;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+     -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    font-family: Questrial,sans-serif
+}
+button:hover{
+  background-color: blanchedalmond;
+    color: #be192d;
+}
+.class{
+  
+}
